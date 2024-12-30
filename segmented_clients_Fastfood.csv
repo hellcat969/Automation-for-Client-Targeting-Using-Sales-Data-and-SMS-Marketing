@@ -1,0 +1,686 @@
+item_name,item_type,item_price,quantity,transaction_amount,city,zip_code,country,phone_number_1
+Aalopuri,Fastfood,20,13,260,Texarkana,75501.0,US,(903) 832-2727
+Vadapav,Fastfood,20,15,300,Fayetteville,72701.0,US,(479) 443-2217
+Vadapav,Fastfood,20,1,20,Fayetteville,72703.0,US,(479) 442-2226
+Vadapav,Fastfood,20,10,200,Richland,39218.0,US,(601) 936-2473
+Panipuri,Fastfood,20,14,280,Mobile,36608.0,US,(251) 607-0702
+Panipuri,Fastfood,20,1,20,Ocean Springs,39564.0,US,(228) 875-1801
+Panipuri,Fastfood,20,5,100,Neptune Beach,32266.0,US,(904) 270-2840
+Frankie,Fastfood,50,8,400,Monroe,71201.0,US,(318) 699-3385
+Vadapav,Fastfood,20,8,160,Gulfport,39503.0,US,(228) 831-1999
+Panipuri,Fastfood,20,9,180,Jacksonville,32217.0,US,(904) 730-3074
+Frankie,Fastfood,50,4,200,Lufkin,75904.0,US,(936) 632-0022
+Aalopuri,Fastfood,20,3,60,Lufkin,75904.0,US,(936) 632-0005
+Sandwich,Fastfood,60,11,660,Jacksonville,32216.0,US,(904) 642-7947
+Panipuri,Fastfood,20,11,220,Livingston,77351.0,US,(936) 327-5796
+Panipuri,Fastfood,20,10,200,Tucson,85710.0,US,(520) 747-5525
+Panipuri,Fastfood,20,11,220,Tucson,85706.0,US,(520) 294-9540
+Sandwich,Fastfood,60,3,180,Tucson,85745.0,US,(520) 624-6044
+Sandwich,Fastfood,60,1,60,Mesa,85202.0,US,(480) 615-8378
+Frankie,Fastfood,50,2,100,Shreveport,71109.0,US,(318) 635-3897
+Aalopuri,Fastfood,20,4,80,Shreveport,71118.0,US,(318) 688-3794
+Aalopuri,Fastfood,20,13,260,Diberville,39540.0,US,(228) 392-1942
+Frankie,Fastfood,50,12,600,Fayetteville,72701.0,US,(479) 443-2217
+Vadapav,Fastfood,20,8,160,Fayetteville,72703.0,US,(479) 442-2226
+Frankie,Fastfood,50,10,500,Tuscaloosa,35405.0,US,(205) 349-4506
+Panipuri,Fastfood,20,12,240,Chelsea,35043.0,US,(205) 678-6648
+Vadapav,Fastfood,20,2,40,Mobile,36695.0,US,(251) 639-9987
+Sandwich,Fastfood,60,5,300,Alabaster,35007.0,US,(205) 620-4188
+Aalopuri,Fastfood,20,8,160,Milton,32570.0,US,(850) 626-4350
+Vadapav,Fastfood,20,1,20,Pelham,35124.0,US,(205) 987-2779
+Vadapav,Fastfood,20,7,140,Saraland,36571.0,US,(251) 675-1246
+Sandwich,Fastfood,60,7,420,Pensacola,32501.0,US,(850) 444-9161
+Sandwich,Fastfood,60,14,840,Pace,32571.0,US,(850) 994-1033
+Frankie,Fastfood,50,4,200,Mesa,85204.0,US,(480) 835-7468
+Vadapav,Fastfood,20,8,160,Mesa,85202.0,US,(480) 615-8378
+Frankie,Fastfood,50,15,750,Century,32535.0,US,(850) 256-4020
+Aalopuri,Fastfood,20,13,260,Phoenix,85015.0,US,(602) 347-8667
+Panipuri,Fastfood,20,14,280,Phoenix,85053.0,US,(602) 942-3989
+Sandwich,Fastfood,60,10,600,Phoenix,85006.0,US,(602) 252-2443
+Panipuri,Fastfood,20,11,220,Phoenix,85040.0,US,(602) 454-6453
+Panipuri,Fastfood,20,14,280,Phoenix,85035.0,US,(623) 873-2880
+Vadapav,Fastfood,20,6,120,Phoenix,85013.0,US,(602) 279-9265
+Vadapav,Fastfood,20,5,100,Phoenix,85032.0,US,(602) 867-9039
+Vadapav,Fastfood,20,14,280,Phoenix,85015.0,US,(602) 347-8667
+Sandwich,Fastfood,60,7,420,Phoenix,85009.0,US,(602) 254-5154
+Aalopuri,Fastfood,20,4,80,Mobile,36606.0,US,(251) 478-1205
+Frankie,Fastfood,50,2,100,Scottsdale,85258.0,US,(480) 767-9281
+Aalopuri,Fastfood,20,9,180,Pensacola,32506.0,US,(850) 453-3141
+Vadapav,Fastfood,20,7,140,Mobile,36606.0,US,(251) 478-1205
+Frankie,Fastfood,50,13,650,Tuscaloosa,35404.0,US,(205) 759-2879
+Panipuri,Fastfood,20,5,100,Tempe,85281.0,US,(480) 921-3501
+Vadapav,Fastfood,20,9,180,Corrigan,75939.0,US,(936) 398-2708
+Vadapav,Fastfood,20,4,80,Jasper,75951.0,US,(409) 384-4123
+Panipuri,Fastfood,20,6,120,San Antonio,78209.0,US,(210) 824-0041
+Frankie,Fastfood,50,13,650,San Antonio,78217.0,US,(210) 599-2871
+Frankie,Fastfood,50,12,600,San Antonio,78218.0,US,(210) 650-4003
+Frankie,Fastfood,50,3,150,Weatherford,76086.0,US,(817) 594-0228
+Frankie,Fastfood,50,11,550,Fort Worth,76108.0,US,(817) 367-6766
+Panipuri,Fastfood,20,13,260,Wichita Falls,76308.0,US,(940) 696-2201
+Aalopuri,Fastfood,20,3,60,Weatherford,76086.0,US,(817) 594-0228
+Aalopuri,Fastfood,20,15,300,El Campo,77437.0,US,(979) 543-1455
+Aalopuri,Fastfood,20,8,160,Bay City,77414.0,US,(979) 244-4959
+Aalopuri,Fastfood,20,14,280,Rosenberg,77471.0,US,(281) 232-5316
+Vadapav,Fastfood,20,15,300,Weatherford,76087.0,US,(817) 599-8321
+Aalopuri,Fastfood,20,15,300,Waxahachie,75165.0,US,(972) 937-2844
+Aalopuri,Fastfood,20,15,300,Waxahachie,75165.0,US,(972) 923-3750
+Sandwich,Fastfood,60,15,900,Longview,75604.0,US,(903) 236-7730
+Vadapav,Fastfood,20,1,20,Wichita Falls,76308.0,US,(940) 692-0015
+Panipuri,Fastfood,20,11,220,Longview,75604.0,US,(903) 759-8858
+Vadapav,Fastfood,20,3,60,Weslaco,78596.0,US,(956) 447-1300
+Panipuri,Fastfood,20,8,160,League City,77573.0,US,(281) 338-2118
+Frankie,Fastfood,50,9,450,Montgomery,77356.0,US,(936) 582-1144
+Sandwich,Fastfood,60,4,240,Friendswood,77546.0,US,(281) 480-7476
+Panipuri,Fastfood,20,5,100,Weatherford,76087.0,US,(817) 599-8321
+Panipuri,Fastfood,20,2,40,Denison,75020.0,US,(903) 465-6105
+Sandwich,Fastfood,60,8,480,Sherman,75090.0,US,(903) 868-1236
+Sandwich,Fastfood,60,7,420,Gainesville,76240.0,US,(940) 668-0984
+Aalopuri,Fastfood,20,8,160,Conroe,77304.0,US,(936) 756-5111
+Aalopuri,Fastfood,20,10,200,Nederland,77627.0,US,(409) 722-9952
+Aalopuri,Fastfood,20,13,260,Beaumont,77701.0,US,(409) 835-4954
+Frankie,Fastfood,50,7,350,Phoenix,85032.0,US,(602) 867-9039
+Sandwich,Fastfood,60,1,60,Peoria,85382.0,US,(623) 933-3998
+Panipuri,Fastfood,20,10,200,Phoenix,85035.0,US,(623) 873-2880
+Frankie,Fastfood,50,2,100,Avondale,85323.0,US,(623) 932-4934
+Panipuri,Fastfood,20,3,60,Fort Worth,76131.0,US,(817) 232-1340
+Vadapav,Fastfood,20,7,140,Waco,76706.0,US,(254) 753-0380
+Panipuri,Fastfood,20,11,220,Waco,76712.0,US,(254) 666-0925
+Aalopuri,Fastfood,20,1,20,Mansfield,76063.0,US,(682) 518-1244
+Vadapav,Fastfood,20,11,220,Tyler,75703.0,US,(903) 534-0625
+Panipuri,Fastfood,20,13,260,Midlothian,76065.0,US,(972) 775-2323
+Sandwich,Fastfood,60,8,480,Tyler,75703.0,US,(903) 939-9961
+Vadapav,Fastfood,20,4,80,Carthage,75633.0,US,(903) 690-9600
+Aalopuri,Fastfood,20,5,100,Mt. Enterprise,75681.0,US,(903) 822-4055
+Aalopuri,Fastfood,20,12,240,Magnolia,77354.0,US,(832) 934-0323
+Aalopuri,Fastfood,20,8,160,League City,77573.0,US,(281) 534-0218
+Aalopuri,Fastfood,20,15,300,Frisco,75036.0,US,(214) 494-6224
+Sandwich,Fastfood,60,15,900,Galveston,77551.0,US,(409) 744-6344
+Frankie,Fastfood,50,11,550,Carrollton,75010.0,US,(972) 732-1942
+Frankie,Fastfood,50,13,650,Terrell,75160.0,US,(972) 524-7141
+Aalopuri,Fastfood,20,4,80,Terrell,75160.0,US,(972) 563-3010
+Frankie,Fastfood,50,8,400,Conroe,77304.0,US,(936) 756-0107
+Panipuri,Fastfood,20,10,200,La Marque,77568.0,US,(409) 986-7001
+Sandwich,Fastfood,60,14,840,Spring,77380.0,US,(281) 367-1995
+Frankie,Fastfood,50,4,200,Center,75935.0,US,(936) 590-9898
+Panipuri,Fastfood,20,7,140,Tomball,77375.0,US,(281) 255-6669
+Sandwich,Fastfood,60,13,780,Tyler,75703.0,US,(903) 630-6394
+Sandwich,Fastfood,60,7,420,Tomball,77375.0,US,(281) 516-9504
+Frankie,Fastfood,50,13,650,Tyler,75707.0,US,(903) 266-9168
+Panipuri,Fastfood,20,1,20,Schertz,78154.0,US,(210) 651-9858
+Vadapav,Fastfood,20,3,60,Tyler,75702.0,US,(903) 533-0693
+Panipuri,Fastfood,20,14,280,Tyler,75701.0,US,(903) 593-8081
+Frankie,Fastfood,50,7,350,Tyler,75701.0,US,(903) 595-2221
+Aalopuri,Fastfood,20,2,40,Tyler,75701.0,US,(903) 561-7334
+Vadapav,Fastfood,20,10,200,Hondo,78861.0,US,(830) 426-2247
+Aalopuri,Fastfood,20,11,220,Alvarado,76009.0,US,(817) 790-4200
+Frankie,Fastfood,50,6,300,Victoria,77901.0,US,(361) 575-2326
+Sandwich,Fastfood,60,11,660,Waco,76710.0,US,(254) 772-5822
+Panipuri,Fastfood,20,6,120,Victoria,77901.0,US,(361) 576-6623
+Sandwich,Fastfood,60,4,240,Temple,76502.0,US,(254) 771-1811
+Vadapav,Fastfood,20,6,120,Temple,76504.0,US,(254) 771-0001
+Aalopuri,Fastfood,20,6,120,Abilene,79605.0,US,(325) 691-1695
+Vadapav,Fastfood,20,11,220,Temple,76502.0,US,(254) 771-9955
+Aalopuri,Fastfood,20,2,40,Graham,76450.0,US,(940) 549-3420
+Frankie,Fastfood,50,12,600,Sugar Land,77478.0,US,(281) 980-5757
+Panipuri,Fastfood,20,1,20,Houston,77071.0,US,(713) 729-8025
+Panipuri,Fastfood,20,11,220,Houston,77036.0,US,(713) 772-4571
+Aalopuri,Fastfood,20,2,40,Brownsville,78521.0,US,(956) 831-0761
+Vadapav,Fastfood,20,6,120,Corpus Christi,78410.0,US,(361) 241-9581
+Frankie,Fastfood,50,2,100,San Antonio,78258.0,US,(210) 496-7730
+Aalopuri,Fastfood,20,15,300,Seguin,78155.0,US,(830) 372-3120
+Panipuri,Fastfood,20,14,280,Whitesboro,76273.0,US,(903) 564-3019
+Vadapav,Fastfood,20,12,240,San Antonio,78258.0,US,(210) 481-9104
+Vadapav,Fastfood,20,2,40,Corpus Christi,78410.0,US,(361) 241-9358
+Vadapav,Fastfood,20,4,80,Horizon City,79928.0,US,(915) 852-4574
+Sandwich,Fastfood,60,4,240,Sweetwater,79556.0,US,(325) 235-1119
+Sandwich,Fastfood,60,3,180,Port Isabel,78578.0,US,(956) 943-1335
+Panipuri,Fastfood,20,10,200,El Paso,79936.0,US,(915) 859-1222
+Frankie,Fastfood,50,15,750,El Paso,79907.0,US,(915) 859-4145
+Frankie,Fastfood,50,6,300,Spring,77379.0,US,(281) 257-5504
+Panipuri,Fastfood,20,8,160,Spring,77380.0,US,(281) 367-1995
+Aalopuri,Fastfood,20,9,180,Sugar Land,77479.0,US,(281) 232-5546
+Vadapav,Fastfood,20,6,120,Spring,77388.0,US,(281) 288-2913
+Vadapav,Fastfood,20,4,80,Sugar Land,77478.0,US,(281) 980-5757
+Aalopuri,Fastfood,20,4,80,Snyder,79549.0,US,(325) 573-4954
+Aalopuri,Fastfood,20,2,40,Abilene,79605.0,US,(325) 695-6336
+Aalopuri,Fastfood,20,12,240,Corpus Christi,78402.0,US,(361) 881-8002
+Vadapav,Fastfood,20,3,60,Round Rock,78664.0,US,(512) 238-0801
+Panipuri,Fastfood,20,9,180,Mineral Wells,76067.0,US,(940) 325-9539
+Aalopuri,Fastfood,20,9,180,Granbury,76048.0,US,(817) 579-0847
+Sandwich,Fastfood,60,1,60,Universal City,78148.0,US,(210) 566-4350
+Sandwich,Fastfood,60,6,360,Giddings,78942.0,US,(979) 542-4968
+Panipuri,Fastfood,20,13,260,Harlingen,78550.0,US,(956) 423-8800
+Frankie,Fastfood,50,11,550,Harlingen,78550.0,US,(956) 423-0372
+Aalopuri,Fastfood,20,13,260,San Angelo,76904.0,US,(325) 223-1312
+Panipuri,Fastfood,20,8,160,San Antonio,78249.0,US,(210) 695-5741
+Panipuri,Fastfood,20,7,140,Palestine,75801.0,US,(903) 729-5737
+Frankie,Fastfood,50,6,300,Bullard,75757.0,US,(903) 954-2900
+Vadapav,Fastfood,20,13,260,Round Rock,78664.0,US,(512) 238-0801
+Panipuri,Fastfood,20,5,100,Round Rock,78664.0,US,(512) 244-3815
+Panipuri,Fastfood,20,10,200,Sugar Land,77479.0,US,(281) 232-5546
+Sandwich,Fastfood,60,10,600,Sugar Land,77478.0,US,(281) 494-4298
+Vadapav,Fastfood,20,12,240,Richmond,77469.0,US,(281) 239-7161
+Panipuri,Fastfood,20,13,260,Aransas Pass,78336.0,US,(361) 758-8700
+Vadapav,Fastfood,20,13,260,La Joya,78560.0,US,(956) 519-4661
+Frankie,Fastfood,50,4,200,Mission,78572.0,US,(956) 519-8488
+Sandwich,Fastfood,60,10,600,Port Aransas,78373.0,US,(361) 749-0681
+Panipuri,Fastfood,20,5,100,Rowlett,75088.0,US,(972) 463-9997
+Sandwich,Fastfood,60,10,600,Garland,75043.0,US,(972) 203-6115
+Vadapav,Fastfood,20,2,40,Rowlett,75088.0,US,(972) 463-9997
+Vadapav,Fastfood,20,10,200,Rowlett,75088.0,US,(972) 412-3535
+Frankie,Fastfood,50,5,250,Jacksonville,75766.0,US,(903) 586-7211
+Vadapav,Fastfood,20,8,160,Garland,75042.0,US,(972) 276-6900
+Vadapav,Fastfood,20,7,140,San Antonio,78251.0,US,(210) 680-4463
+Aalopuri,Fastfood,20,3,60,San Antonio,78216.0,US,(210) 979-7369
+Sandwich,Fastfood,60,10,600,San Antonio,78209.0,US,(210) 828-5720
+Vadapav,Fastfood,20,14,280,San Antonio,78227.0,US,(210) 673-4520
+Sandwich,Fastfood,60,4,240,San Antonio,78229.0,US,(210) 615-2214
+Frankie,Fastfood,50,9,450,San Antonio,78224.0,US,(210) 927-6891
+Vadapav,Fastfood,20,5,100,San Antonio,78251.0,US,(210) 647-4402
+Panipuri,Fastfood,20,2,40,San Antonio,78247.0,US,(210) 946-0316
+Vadapav,Fastfood,20,6,120,San Antonio,78212.0,US,(210) 736-5769
+Frankie,Fastfood,50,10,500,San Antonio,78240.0,US,(210) 697-0244
+Vadapav,Fastfood,20,1,20,San Antonio,78221.0,US,(210) 921-1709
+Panipuri,Fastfood,20,2,40,San Antonio,78251.0,US,(210) 688-6335
+Sandwich,Fastfood,60,13,780,San Antonio,78218.0,US,(210) 650-4003
+Vadapav,Fastfood,20,13,260,San Antonio,78212.0,US,(210) 444-0212
+Frankie,Fastfood,50,5,250,San Antonio,78222.0,US,(210) 648-4081
+Panipuri,Fastfood,20,15,300,San Antonio,78237.0,US,(210) 435-3084
+Vadapav,Fastfood,20,15,300,San Antonio,78264.0,US,(210) 626-1176
+Frankie,Fastfood,50,6,300,San Antonio,78223.0,US,(210) 337-9115
+Vadapav,Fastfood,20,15,300,San Antonio,78245.0,US,(210) 645-7029
+Panipuri,Fastfood,20,14,280,San Antonio,78238.0,US,(210) 680-0848
+Sandwich,Fastfood,60,3,180,San Antonio,78209.0,US,(210) 822-2568
+Vadapav,Fastfood,20,13,260,San Antonio,78210.0,US,(210) 333-7060
+Panipuri,Fastfood,20,2,40,San Antonio,78230.0,US,(210) 384-0567
+Frankie,Fastfood,50,7,350,San Antonio,78201.0,US,(210) 340-2445
+Aalopuri,Fastfood,20,3,60,San Antonio,78257.0,US,(210) 698-5485
+Vadapav,Fastfood,20,6,120,San Antonio,78258.0,US,(210) 481-9104
+Aalopuri,Fastfood,20,3,60,San Antonio,78258.0,US,(210) 497-3939
+Sandwich,Fastfood,60,7,420,San Antonio,78216.0,US,(210) 493-2841
+Aalopuri,Fastfood,20,7,140,San Antonio,78258.0,US,(210) 496-7730
+Panipuri,Fastfood,20,7,140,San Antonio,78247.0,US,(210) 404-9936
+Frankie,Fastfood,50,8,400,San Antonio,78258.0,US,(210) 491-4475
+Frankie,Fastfood,50,2,100,San Antonio,78217.0,US,(210) 599-2871
+Panipuri,Fastfood,20,8,160,San Antonio,78257.0,US,(210) 641-0368
+Aalopuri,Fastfood,20,1,20,San Antonio,78210.0,US,(210) 534-0911
+Sandwich,Fastfood,60,7,420,San Antonio,78233.0,US,(210) 654-8175
+Panipuri,Fastfood,20,7,140,San Antonio,78232.0,US,(210) 494-7231
+Sandwich,Fastfood,60,10,600,San Antonio,78216.0,US,(210) 979-8032
+Aalopuri,Fastfood,20,1,20,San Antonio,78211.0,US,(210) 923-3155
+Aalopuri,Fastfood,20,8,160,San Antonio,78209.0,US,(210) 824-0041
+Panipuri,Fastfood,20,7,140,San Antonio,78231.0,US,(210) 408-1749
+Aalopuri,Fastfood,20,14,280,Saginaw,76106.0,US,(817) 626-4953
+Vadapav,Fastfood,20,15,300,Katy,77494.0,US,(281) 347-1066
+Panipuri,Fastfood,20,4,80,Columbus,78934.0,US,(979) 732-8681
+Vadapav,Fastfood,20,8,160,San Marcos,78666.0,US,(512) 353-0567
+Sandwich,Fastfood,60,13,780,La Grange,78945.0,US,(979) 968-9868
+Sandwich,Fastfood,60,8,480,Katy,77494.0,US,(281) 574-1499
+Vadapav,Fastfood,20,4,80,Mesquite,75149.0,US,(972) 285-4193
+Frankie,Fastfood,50,7,350,Forney,75126.0,US,(972) 564-1232
+Frankie,Fastfood,50,8,400,Richmond,77469.0,US,(281) 232-5726
+Frankie,Fastfood,50,4,200,Richardson,75081.0,US,(972) 918-9680
+Aalopuri,Fastfood,20,12,240,Corpus Christi,78410.0,US,(361) 241-7474
+Aalopuri,Fastfood,20,10,200,Kingwood,77345.0,US,(281) 361-9036
+Frankie,Fastfood,50,15,750,Red Oak,75154.0,US,(972) 617-5545
+Frankie,Fastfood,50,12,600,Elsa,78543.0,US,(956) 262-1321
+Aalopuri,Fastfood,20,4,80,Richardson,75080.0,US,(972) 231-2833
+Aalopuri,Fastfood,20,12,240,South Padre Island,78597.0,US,(956) 761-7862
+Sandwich,Fastfood,60,8,480,Victoria,77901.0,US,(361) 575-2326
+Frankie,Fastfood,50,15,750,Edna,77957.0,US,(361) 782-2455
+Vadapav,Fastfood,20,3,60,Victoria,77901.0,US,(361) 576-6623
+Panipuri,Fastfood,20,7,140,McKinney,75070.0,US,(214) 491-4129
+Panipuri,Fastfood,20,8,160,Corpus Christi,78401.0,US,(361) 881-8987
+Panipuri,Fastfood,20,4,80,Frisco,75034.0,US,(214) 872-3855
+Aalopuri,Fastfood,20,2,40,McKinney,75071.0,US,(972) 540-9156
+Aalopuri,Fastfood,20,14,280,Royse City,75189.0,US,(972) 635-2228
+Frankie,Fastfood,50,9,450,Allen,75002.0,US,(972) 649-6913
+Vadapav,Fastfood,20,7,140,San Antonio,78264.0,US,(210) 626-1176
+Panipuri,Fastfood,20,14,280,Ft Worth,76177.0,US,(682) 831-1753
+Frankie,Fastfood,50,7,350,North Richland Hills,76182.0,US,(817) 514-4989
+Vadapav,Fastfood,20,1,20,Paris,75460.0,US,(903) 784-1365
+Panipuri,Fastfood,20,5,100,Mission,78572.0,US,(956) 581-2021
+Frankie,Fastfood,50,5,250,Rusk,75785.0,US,(903) 683-8040
+Frankie,Fastfood,50,11,550,Mission,78572.0,US,(956) 581-2121
+Vadapav,Fastfood,20,4,80,Crockett,75835.0,US,(936) 546-0240
+Panipuri,Fastfood,20,14,280,Timpson,75975.0,US,(936) 254-3438
+Sandwich,Fastfood,60,9,540,Bridge City,77611.0,US,(409) 697-1800
+Aalopuri,Fastfood,20,6,120,North Richland Hills,76180.0,US,(817) 281-8410
+Aalopuri,Fastfood,20,13,260,Plano,75074.0,US,(972) 423-5506
+Sandwich,Fastfood,60,15,900,Gilmer,75644.0,US,(903) 680-0152
+Frankie,Fastfood,50,9,450,Henderson,75652.0,US,(903) 657-8538
+Panipuri,Fastfood,20,10,200,Sulphur Springs,75482.0,US,(903) 439-1035
+Panipuri,Fastfood,20,6,120,Mission,78572.0,US,(956) 519-8488
+Sandwich,Fastfood,60,2,120,Mission,78572.0,US,(956) 583-2131
+Panipuri,Fastfood,20,5,100,Mission,78572.0,US,(956) 581-2021
+Vadapav,Fastfood,20,5,100,Houston,77085.0,US,(713) 283-1070
+Frankie,Fastfood,50,12,600,Groves,77619.0,US,(409) 963-2623
+Frankie,Fastfood,50,10,500,Lufkin,75901.0,US,(936) 632-2216
+Panipuri,Fastfood,20,13,260,North Richland Hills,76180.0,US,(817) 656-9561
+Frankie,Fastfood,50,15,750,North Richland Hills,76180.0,US,(817) 281-0894
+Vadapav,Fastfood,20,2,40,Odessa,79761.0,US,(432) 337-6675
+Sandwich,Fastfood,60,5,300,New Braunfels,78130.0,US,(830) 643-0414
+Vadapav,Fastfood,20,1,20,Paris,75460.0,US,(903) 785-0808
+Aalopuri,Fastfood,20,7,140,Porter,77365.0,US,(281) 354-5446
+Vadapav,Fastfood,20,5,100,Pearland,77584.0,US,(713) 436-5177
+Frankie,Fastfood,50,5,250,Pearland,77581.0,US,(281) 485-6744
+Sandwich,Fastfood,60,14,840,Pharr,78577.0,US,(956) 781-3611
+Sandwich,Fastfood,60,12,720,Pearland,77584.0,US,(713) 436-7526
+Aalopuri,Fastfood,20,1,20,Pasadena,77505.0,US,(281) 998-1605
+Aalopuri,Fastfood,20,15,300,Pasadena,77502.0,US,(713) 472-4374
+Sandwich,Fastfood,60,1,60,Pasadena,77504.0,US,(713) 946-9574
+Sandwich,Fastfood,60,3,180,Bellmead,76705.0,US,(254) 799-0267
+Frankie,Fastfood,50,15,750,Corsicana,75110.0,US,(903) 872-6871
+Aalopuri,Fastfood,20,2,40,Tyler,75708.0,US,(903) 526-0490
+Panipuri,Fastfood,20,6,120,Corsicana,75109.0,US,(903) 874-6403
+Panipuri,Fastfood,20,9,180,Mesquite,75150.0,US,(972) 270-1641
+Frankie,Fastfood,50,7,350,Mesquite,75150.0,US,(972) 681-3318
+Frankie,Fastfood,50,7,350,McAllen,78504.0,US,(956) 682-8933
+Vadapav,Fastfood,20,4,80,Cedar Park,78613.0,US,(512) 331-0608
+Aalopuri,Fastfood,20,9,180,Magnolia,77354.0,US,(281) 363-2223
+Aalopuri,Fastfood,20,15,300,Gun Barrel City,75147.0,US,(903) 887-8700
+Panipuri,Fastfood,20,12,240,Athens,75751.0,US,(903) 677-3838
+Aalopuri,Fastfood,20,10,200,Magnolia,77354.0,US,(832) 934-0323
+Vadapav,Fastfood,20,8,160,San Antonio,78227.0,US,(210) 673-4520
+Sandwich,Fastfood,60,9,540,Austin,78753.0,US,(512) 836-8348
+Panipuri,Fastfood,20,3,60,McAllen,78501.0,US,(956) 682-5597
+Frankie,Fastfood,50,13,650,Austin,78753.0,US,(512) 339-1651
+Frankie,Fastfood,50,7,350,McKinney,75071.0,US,(972) 540-9156
+Panipuri,Fastfood,20,14,280,McAllen,78503.0,US,(956) 682-0166
+Frankie,Fastfood,50,14,700,McKinney,75070.0,US,(214) 491-4129
+Sandwich,Fastfood,60,2,120,Marshall,75671.0,US,(903) 935-6161
+Sandwich,Fastfood,60,4,240,McKinney,75070.0,US,(972) 390-9917
+Panipuri,Fastfood,20,6,120,McKinney,75071.0,US,(972) 984-1432
+Panipuri,Fastfood,20,6,120,McKinney,75069.0,US,(214) 544-8100
+Panipuri,Fastfood,20,14,280,Mesquite,75149.0,US,(972) 289-9263
+Aalopuri,Fastfood,20,12,240,Midlothian,76065.0,US,(972) 775-2323
+Sandwich,Fastfood,60,1,60,Mesquite,75149.0,US,(972) 285-4193
+Frankie,Fastfood,50,10,500,Midland,79701.0,US,(432) 694-1648
+Frankie,Fastfood,50,13,650,Midland,79705.0,US,(432) 684-0545
+Aalopuri,Fastfood,20,7,140,Lindale,75771.0,US,(903) 881-5120
+Aalopuri,Fastfood,20,1,20,Silsbee,77656.0,US,(409) 385-3258
+Frankie,Fastfood,50,4,200,Woodville,75979.0,US,(409) 331-9848
+Sandwich,Fastfood,60,14,840,San Antonio,78233.0,US,(210) 654-8175
+Frankie,Fastfood,50,6,300,Buda,78610.0,US,(512) 295-7286
+Vadapav,Fastfood,20,6,120,Cleveland,77327.0,US,(281) 592-7722
+Frankie,Fastfood,50,4,200,Baytown,77521.0,US,(281) 739-5231
+Frankie,Fastfood,50,5,250,San Antonio,78251.0,US,(210) 680-4463
+Sandwich,Fastfood,60,1,60,Lancaster,75134.0,US,(972) 224-3040
+Sandwich,Fastfood,60,1,60,Clute,77531.0,US,(979) 265-4274
+Vadapav,Fastfood,20,14,280,Cedar Park,78613.0,US,(512) 331-8810
+Aalopuri,Fastfood,20,2,40,Angleton,77515.0,US,(979) 849-1259
+Vadapav,Fastfood,20,3,60,Westworth Village,76114.0,US,(817) 763-9873
+Sandwich,Fastfood,60,6,360,Fort Worth,76106.0,US,(817) 625-8586
+Panipuri,Fastfood,20,6,120,Laredo,78041.0,US,(956) 753-8809
+Aalopuri,Fastfood,20,11,220,Laredo,78046.0,US,(956) 722-2712
+Panipuri,Fastfood,20,2,40,Laredo,78041.0,US,(956) 729-1160
+Sandwich,Fastfood,60,7,420,Laredo,78041.0,US,(956) 723-8283
+Vadapav,Fastfood,20,8,160,Laredo,78043.0,US,(956) 712-9889
+Panipuri,Fastfood,20,7,140,Laredo,78045.0,US,(956) 717-8506
+Panipuri,Fastfood,20,10,200,Laredo,78041.0,US,(956) 726-4221
+Sandwich,Fastfood,60,5,300,Laredo,78045.0,US,(956) 725-2509
+Aalopuri,Fastfood,20,10,200,Lewisville,75067.0,US,(972) 434-2505
+Sandwich,Fastfood,60,15,900,Baytown,77523.0,US,(281) 573-9363
+Sandwich,Fastfood,60,11,660,Lubbock,79424.0,US,(806) 784-0190
+Vadapav,Fastfood,20,12,240,Laredo,78043.0,US,(956) 723-9757
+Aalopuri,Fastfood,20,1,20,Lubbock,79416.0,US,(806) 799-1955
+Panipuri,Fastfood,20,9,180,Lubbock,79424.0,US,(806) 698-1196
+Aalopuri,Fastfood,20,6,120,Tyler,75702.0,US,(903) 592-7354
+Vadapav,Fastfood,20,6,120,Lubbock,79424.0,US,(806) 783-0465
+Sandwich,Fastfood,60,9,540,Lubbock,79401.0,US,(806) 744-0528
+Frankie,Fastfood,50,13,650,Tyler,75702.0,US,(903) 533-0693
+Vadapav,Fastfood,20,2,40,Lufkin,75904.0,US,(936) 632-0022
+Sandwich,Fastfood,60,15,900,San Marcos,78666.0,US,(512) 353-0567
+Aalopuri,Fastfood,20,13,260,Longview,75604.0,US,(903) 759-8858
+Sandwich,Fastfood,60,7,420,Lufkin,75904.0,US,(936) 632-0005
+Frankie,Fastfood,50,1,50,Longview,75601.0,US,(903) 753-7231
+Sandwich,Fastfood,60,8,480,La Porte,77571.0,US,(281) 478-6563
+Vadapav,Fastfood,20,4,80,Palmhurst,78573.0,US,(956) 583-4003
+Panipuri,Fastfood,20,13,260,Texas City,77590.0,US,(409) 948-3153
+Aalopuri,Fastfood,20,13,260,Mercedes,78570.0,US,(956) 514-4879
+Frankie,Fastfood,50,4,200,Kingsville,78363.0,US,(361) 592-4356
+Aalopuri,Fastfood,20,14,280,Kilgore,75662.0,US,(903) 984-1324
+Sandwich,Fastfood,60,1,60,Webster,77598.0,US,(281) 338-1576
+Vadapav,Fastfood,20,11,220,Kilgore,75662.0,US,(903) 983-2800
+Sandwich,Fastfood,60,14,840,Roanoke,76262.0,US,(817) 490-1059
+Panipuri,Fastfood,20,4,80,Watauga,76148.0,US,(817) 514-7513
+Panipuri,Fastfood,20,3,60,Terrell,75160.0,US,(972) 563-3010
+Sandwich,Fastfood,60,7,420,Houston,77064.0,US,(281) 970-9160
+Panipuri,Fastfood,20,13,260,Katy,77494.0,US,(281) 347-1066
+Aalopuri,Fastfood,20,6,120,Katy,77494.0,US,(281) 574-1499
+Panipuri,Fastfood,20,11,220,Katy,77449.0,US,(281) 492-0691
+Panipuri,Fastfood,20,14,280,Houston,77070.0,US,(281) 469-1223
+Panipuri,Fastfood,20,13,260,Boerne,78006.0,US,(830) 249-1288
+Frankie,Fastfood,50,6,300,Fredericksburg,78624.0,US,(830) 990-8428
+Aalopuri,Fastfood,20,13,260,Ingram,78025.0,US,(830) 367-3557
+Vadapav,Fastfood,20,3,60,Copperas Cove,76522.0,US,(254) 542-0028
+Sandwich,Fastfood,60,10,600,Harker Heights,76548.0,US,(254) 200-1200
+Aalopuri,Fastfood,20,12,240,Kingsville,78363.0,US,(361) 221-9559
+Panipuri,Fastfood,20,6,120,Schulenburg,78956.0,US,(979) 743-9166
+Panipuri,Fastfood,20,13,260,Irving,75062.0,US,(972) 313-9789
+Frankie,Fastfood,50,2,100,Kerrville,78028.0,US,(830) 896-3313
+Vadapav,Fastfood,20,2,40,Round Rock,78664.0,US,(512) 244-3815
+Sandwich,Fastfood,60,4,240,Lancaster,75146.0,US,(972) 230-9296
+Panipuri,Fastfood,20,3,60,Lancaster,75134.0,US,(972) 224-3040
+Panipuri,Fastfood,20,7,140,Houston,77025.0,US,(713) 661-4094
+Panipuri,Fastfood,20,3,60,Dallas,75241.0,US,(972) 224-3511
+Vadapav,Fastfood,20,13,260,North Richland Hills,76180.0,US,(817) 281-8410
+Panipuri,Fastfood,20,12,240,Houston,77036.0,US,(713) 772-4571
+Aalopuri,Fastfood,20,15,300,Houston,77064.0,US,(281) 970-9160
+Sandwich,Fastfood,60,15,900,Hidalgo,78557.0,US,(956) 843-9261
+Sandwich,Fastfood,60,13,780,Longview,75602.0,US,(903) 757-4927
+Aalopuri,Fastfood,20,1,20,Lewisville,75067.0,US,(972) 434-2505
+Panipuri,Fastfood,20,14,280,Saginaw,76179.0,US,(817) 847-8549
+Panipuri,Fastfood,20,4,80,Houston,77008.0,US,(713) 880-8840
+Sandwich,Fastfood,60,6,360,Lewisville,75067.0,US,(972) 221-3464
+Vadapav,Fastfood,20,9,180,Houston,77095.0,US,(281) 858-0590
+Sandwich,Fastfood,60,2,120,Hidalgo,78557.0,US,(956) 843-5136
+Panipuri,Fastfood,20,5,100,Cleburne,76031.0,US,(817) 645-8806
+Panipuri,Fastfood,20,1,20,Houston,77072.0,US,(281) 495-9384
+Frankie,Fastfood,50,4,200,Houston,77071.0,US,(713) 729-8025
+Frankie,Fastfood,50,7,350,Houston,77028.0,US,(713) 671-0395
+Panipuri,Fastfood,20,15,300,Houston,77085.0,US,(713) 283-1070
+Frankie,Fastfood,50,3,150,Houston,77069.0,US,(281) 893-6654
+Panipuri,Fastfood,20,12,240,Houston,77036.0,US,(713) 772-0159
+Sandwich,Fastfood,60,15,900,Houston,77022.0,US,(713) 691-0444
+Frankie,Fastfood,50,2,100,Houston,77084.0,US,(281) 550-6763
+Aalopuri,Fastfood,20,1,20,Houston,77092.0,US,(713) 686-9402
+Vadapav,Fastfood,20,1,20,Houston,77076.0,US,(713) 818-9382
+Panipuri,Fastfood,20,12,240,Houston,77093.0,US,(713) 691-1424
+Frankie,Fastfood,50,5,250,Houston,77027.0,US,(713) 627-8602
+Panipuri,Fastfood,20,2,40,Houston,77032.0,US,(281) 233-3347
+Panipuri,Fastfood,20,10,200,Houston,77021.0,US,(713) 748-8823
+Aalopuri,Fastfood,20,13,260,Houston,77098.0,US,(713) 529-0216
+Frankie,Fastfood,50,8,400,Houston,77082.0,US,(281) 752-4250
+Vadapav,Fastfood,20,11,220,Houston,77073.0,US,(281) 821-6481
+Sandwich,Fastfood,60,15,900,Houston,77042.0,US,(713) 782-6941
+Aalopuri,Fastfood,20,10,200,Houston,77080.0,US,(713) 461-1486
+Frankie,Fastfood,50,11,550,Houston,77030.0,US,(713) 838-8106
+Panipuri,Fastfood,20,15,300,Houston,77375.0,US,(832) 717-5357
+Sandwich,Fastfood,60,13,780,Houston,77060.0,US,(281) 873-7760
+Frankie,Fastfood,50,6,300,Houston,77020.0,US,(713) 674-6609
+Frankie,Fastfood,50,9,450,Houston,77090.0,US,(281) 440-8860
+Panipuri,Fastfood,20,10,200,Houston,77077.0,US,(281) 556-8770
+Frankie,Fastfood,50,13,650,Houston,77015.0,US,(713) 450-2030
+Panipuri,Fastfood,20,6,120,Houston,77040.0,US,(713) 690-0394
+Aalopuri,Fastfood,20,12,240,Houston,77086.0,US,(281) 999-4114
+Aalopuri,Fastfood,20,10,200,Houston,77079.0,US,(281) 497-6696
+Vadapav,Fastfood,20,10,200,Houston,77089.0,US,(713) 987-9158
+Frankie,Fastfood,50,10,500,Houston,77002.0,US,(713) 658-9602
+Vadapav,Fastfood,20,9,180,Houston,77055.0,US,(713) 468-8765
+Aalopuri,Fastfood,20,1,20,Houston,77035.0,US,(713) 726-0031
+Aalopuri,Fastfood,20,14,280,Houston,77070.0,US,(281) 469-1223
+Frankie,Fastfood,50,13,650,North Richland Hills,76180.0,US,(817) 281-0894
+Aalopuri,Fastfood,20,2,40,Humble,77338.0,US,(281) 446-0211
+Aalopuri,Fastfood,20,3,60,Houston,77089.0,US,(281) 481-0054
+Vadapav,Fastfood,20,5,100,Humble,77396.0,US,(281) 441-1626
+Vadapav,Fastfood,20,2,40,Humble,77338.0,US,(281) 540-1795
+Sandwich,Fastfood,60,14,840,Tyler,75703.0,US,(903) 561-2055
+Vadapav,Fastfood,20,6,120,Irving,75062.0,US,(972) 252-7489
+Frankie,Fastfood,50,1,50,Harlingen,78550.0,US,(956) 423-0372
+Panipuri,Fastfood,20,12,240,Refugio,78377.0,US,(361) 526-4625
+Aalopuri,Fastfood,20,2,40,Harlingen,78550.0,US,(956) 428-0774
+Panipuri,Fastfood,20,13,260,Princeton,75407.0,US,(972) 736-2887
+Sandwich,Fastfood,60,9,540,Malakoff,75148.0,US,(903) 292-5120
+Sandwich,Fastfood,60,15,900,Harlingen,78550.0,US,(956) 423-8800
+Frankie,Fastfood,50,7,350,Seguin,78155.0,US,(830) 372-3120
+Panipuri,Fastfood,20,9,180,Bastrop,78602.0,US,(512) 321-0722
+Panipuri,Fastfood,20,13,260,Galveston,77551.0,US,(409) 744-6344
+Vadapav,Fastfood,20,15,300,Garland,75041.0,US,(972) 278-8540
+Aalopuri,Fastfood,20,7,140,Galveston,77550.0,US,(409) 762-7622
+Vadapav,Fastfood,20,14,280,Garland,75042.0,US,(972) 276-6900
+Sandwich,Fastfood,60,15,900,Georgetown,78628.0,US,(512) 863-5040
+Vadapav,Fastfood,20,15,300,Georgetown,78628.0,US,(512) 864-0989
+Panipuri,Fastfood,20,5,100,Willow Park,76087.0,US,(817) 441-2301
+Sandwich,Fastfood,60,9,540,Longview,75605.0,US,(903) 663-2267
+Vadapav,Fastfood,20,14,280,Grand Prairie,75052.0,US,(972) 237-7941
+Vadapav,Fastfood,20,3,60,Grand Prairie,75050.0,US,(972) 660-3187
+Sandwich,Fastfood,60,7,420,Grand Prairie,75050.0,US,(972) 641-7684
+Frankie,Fastfood,50,9,450,Grand Prairie,75051.0,US,(972) 849-2057
+Sandwich,Fastfood,60,13,780,Denton,76201.0,US,(940) 383-2311
+Sandwich,Fastfood,60,10,600,Denton,76201.0,US,(940) 387-6505
+Frankie,Fastfood,50,10,500,Ft. Worth,76177.0,US,(817) 847-7105
+Vadapav,Fastfood,20,9,180,Seagoville,75159.0,US,(972) 287-7973
+Sandwich,Fastfood,60,6,360,Ft Worth,76177.0,US,(682) 831-1753
+Aalopuri,Fastfood,20,12,240,Waxahachie,75165.0,US,(972) 937-2844
+Panipuri,Fastfood,20,2,40,Weslaco,78596.0,US,(956) 447-1300
+Sandwich,Fastfood,60,9,540,El Paso,79912.0,US,(915) 833-7789
+Frankie,Fastfood,50,7,350,El Paso,79925.0,US,(915) 591-8103
+Panipuri,Fastfood,20,3,60,El Paso,79904.0,US,(915) 757-2564
+Frankie,Fastfood,50,10,500,El Paso,79915.0,US,(915) 594-2997
+Aalopuri,Fastfood,20,14,280,Victoria,77904.0,US,(361) 578-9858
+Panipuri,Fastfood,20,9,180,Edinburg,78539.0,US,(956) 383-3991
+Vadapav,Fastfood,20,3,60,Edinburg,78542.0,US,(956) 287-9602
+Aalopuri,Fastfood,20,4,80,Austin,78748.0,US,(512) 292-4161
+Sandwich,Fastfood,60,11,660,Duncanville,75137.0,US,(972) 283-8222
+Panipuri,Fastfood,20,15,300,Duncanville,75116.0,US,(972) 298-4289
+Sandwich,Fastfood,60,2,120,Edinburg,78539.0,US,(956) 380-0373
+Sandwich,Fastfood,60,12,720,El Paso,79930.0,US,(915) 565-0585
+Sandwich,Fastfood,60,12,720,El Paso,79924.0,US,(915) 751-4963
+Frankie,Fastfood,50,7,350,El Paso,79902.0,US,(915) 533-8338
+Aalopuri,Fastfood,20,3,60,El Paso,79936.0,US,(915) 593-0493
+Sandwich,Fastfood,60,12,720,El Paso,79925.0,US,(915) 772-2341
+Frankie,Fastfood,50,9,450,El Paso,79932.0,US,(915) 584-3446
+Aalopuri,Fastfood,20,14,280,El Paso,79905.0,US,(915) 544-7039
+Frankie,Fastfood,50,15,750,El Paso,79925.0,US,(915) 590-8866
+Vadapav,Fastfood,20,5,100,El Paso,79907.0,US,(915) 859-4145
+Aalopuri,Fastfood,20,3,60,El Paso,79936.0,US,(915) 859-1222
+Vadapav,Fastfood,20,10,200,El Paso,79936.0,US,(915) 857-7262
+Frankie,Fastfood,50,5,250,El Paso,79935.0,US,(915) 590-1295
+Vadapav,Fastfood,20,6,120,Waxahachie,75165.0,US,(972) 938-8707
+Vadapav,Fastfood,20,9,180,Donna,78537.0,US,(956) 464-3376
+Sandwich,Fastfood,60,7,420,Waxahachie,75165.0,US,(972) 923-3750
+Frankie,Fastfood,50,14,700,Euless,76039.0,US,(817) 868-1116
+Panipuri,Fastfood,20,14,280,Kingsville,78363.0,US,(361) 592-4356
+Panipuri,Fastfood,20,10,200,Euless,76040.0,US,(817) 358-3930
+Panipuri,Fastfood,20,10,200,Kingsville,78363.0,US,(361) 221-9559
+Frankie,Fastfood,50,6,300,Fort Worth,76132.0,US,(817) 370-9064
+Panipuri,Fastfood,20,10,200,Fort Worth,76115.0,US,(817) 926-2193
+Sandwich,Fastfood,60,1,60,Fort Worth,76137.0,US,(817) 306-9111
+Sandwich,Fastfood,60,6,360,Fort Worth,76107.0,US,(817) 732-6381
+Frankie,Fastfood,50,8,400,Fort Worth,76103.0,US,(817) 531-2764
+Panipuri,Fastfood,20,2,40,Fort Worth,76133.0,US,(817) 346-0431
+Sandwich,Fastfood,60,5,300,Fort Worth,76140.0,US,(817) 551-0576
+Sandwich,Fastfood,60,15,900,Fort Worth,76110.0,US,(817) 923-7328
+Aalopuri,Fastfood,20,3,60,Fort Worth,76116.0,US,(817) 244-4981
+Vadapav,Fastfood,20,3,60,Fort Worth,76110.0,US,(817) 924-6681
+Sandwich,Fastfood,60,1,60,Fort Worth,76106.0,US,(817) 625-8586
+Panipuri,Fastfood,20,9,180,Friendswood,77546.0,US,(281) 648-1119
+Aalopuri,Fastfood,20,2,40,Fort Worth,76134.0,US,(817) 551-1161
+Vadapav,Fastfood,20,15,300,Friendswood,77546.0,US,(281) 480-7476
+Frankie,Fastfood,50,14,700,Friendswood,77546.0,US,(281) 996-9171
+Panipuri,Fastfood,20,12,240,Denton,76201.0,US,(940) 383-2316
+Vadapav,Fastfood,20,15,300,Desoto,75115.0,US,(972) 224-3567
+Frankie,Fastfood,50,10,500,Corsicana,75109.0,US,(903) 874-6403
+Vadapav,Fastfood,20,6,120,Haslet,76052.0,US,(817) 439-8622
+Panipuri,Fastfood,20,1,20,Corsicana,75110.0,US,(903) 872-6871
+Aalopuri,Fastfood,20,5,100,Houston,77044.0,US,(281) 436-1983
+Vadapav,Fastfood,20,1,20,Cypress,77433.0,US,(281) 861-8496
+Sandwich,Fastfood,60,7,420,Cypress,77433.0,US,(281) 256-7840
+Frankie,Fastfood,50,13,650,Dallas,75247.0,US,(214) 905-9014
+Frankie,Fastfood,50,10,500,Dallas,75243.0,US,(972) 664-9900
+Panipuri,Fastfood,20,7,140,Houston,77049.0,US,(281) 454-6289
+Frankie,Fastfood,50,10,500,Grapevine,76051.0,US,(972) 724-6236
+Frankie,Fastfood,50,7,350,Corpus Christi,78410.0,US,(361) 241-7474
+Panipuri,Fastfood,20,11,220,Corpus Christi,78413.0,US,(361) 980-3881
+Panipuri,Fastfood,20,13,260,Dallas,75241.0,US,(972) 224-3511
+Frankie,Fastfood,50,13,650,Corpus Christi,78412.0,US,(361) 986-0609
+Sandwich,Fastfood,60,4,240,Corpus Christi,78401.0,US,(361) 881-8987
+Aalopuri,Fastfood,20,11,220,Conroe,77301.0,US,(936) 539-1944
+Aalopuri,Fastfood,20,9,180,Corpus Christi,78414.0,US,(361) 993-9277
+Aalopuri,Fastfood,20,5,100,Sealy,77474.0,US,(979) 885-4101
+Panipuri,Fastfood,20,14,280,Conroe,77304.0,US,(936) 756-0107
+Panipuri,Fastfood,20,1,20,Corpus Christi,78412.0,US,(361) 993-0252
+Frankie,Fastfood,50,10,500,Conroe,77304.0,US,(936) 756-5111
+Aalopuri,Fastfood,20,2,40,Corpus Christi,78413.0,US,(361) 857-5540
+Sandwich,Fastfood,60,14,840,Corpus Christi,78404.0,US,(361) 855-4237
+Vadapav,Fastfood,20,11,220,Corpus Christi,78410.0,US,(361) 241-9581
+Frankie,Fastfood,50,1,50,Corpus Christi,78415.0,US,(361) 852-8261
+Vadapav,Fastfood,20,2,40,Corpus Christi,78405.0,US,(361) 883-1753
+Panipuri,Fastfood,20,2,40,Corpus Christi,78413.0,US,(361) 992-6102
+Aalopuri,Fastfood,20,12,240,Corpus Christi,78408.0,US,(361) 882-5524
+Vadapav,Fastfood,20,3,60,Corpus Christi,78418.0,US,(361) 949-7777
+Sandwich,Fastfood,60,3,180,Dallas,75235.0,US,(214) 654-0914
+Vadapav,Fastfood,20,12,240,Corpus Christi,78404.0,US,(361) 883-4428
+Vadapav,Fastfood,20,14,280,Dallas,75231.0,US,(214) 363-4903
+Sandwich,Fastfood,60,7,420,Dallas,75220.0,US,(214) 357-5684
+Sandwich,Fastfood,60,13,780,Corpus Christi,78418.0,US,(361) 937-2661
+Sandwich,Fastfood,60,10,600,Dallas,75206.0,US,(214) 265-9191
+Frankie,Fastfood,50,8,400,Dallas,75227.0,US,(214) 321-3800
+Sandwich,Fastfood,60,14,840,Dallas,75209.0,US,(214) 521-3870
+Frankie,Fastfood,50,8,400,Dallas,75237.0,US,(972) 709-9276
+Aalopuri,Fastfood,20,8,160,Dallas,75261.0,US,(972) 574-2330
+Panipuri,Fastfood,20,5,100,Dallas,75234.0,US,(972) 481-1681
+Vadapav,Fastfood,20,1,20,Dallas,75287.0,US,(972) 662-0559
+Sandwich,Fastfood,60,6,360,Dallas,75218.0,US,(214) 342-6906
+Frankie,Fastfood,50,10,500,Cypress,77433.0,US,(281) 256-6946
+Panipuri,Fastfood,20,13,260,Dallas,75287.0,US,(972) 248-6181
+Frankie,Fastfood,50,13,650,Dallas,75211.0,US,(214) 330-8898
+Sandwich,Fastfood,60,13,780,Dallas,75248.0,US,(972) 661-8320
+Aalopuri,Fastfood,20,10,200,Dallas,75243.0,US,(214) 342-8552
+Aalopuri,Fastfood,20,5,100,Cypress,77429.0,US,(281) 256-1224
+Aalopuri,Fastfood,20,8,160,Denton,76201.0,US,(940) 387-6505
+Vadapav,Fastfood,20,8,160,Denton,76205.0,US,(940) 484-9449
+Aalopuri,Fastfood,20,2,40,Denton,76201.0,US,(940) 383-2311
+Sandwich,Fastfood,60,14,840,College Station,77845.0,US,(979) 695-1348
+Aalopuri,Fastfood,20,2,40,College Station,77840.0,US,(979) 436-3392
+Panipuri,Fastfood,20,3,60,Lake Jackson,77566.0,US,(979) 299-1313
+Vadapav,Fastfood,20,3,60,Abilene,79601.0,US,(325) 676-0836
+Vadapav,Fastfood,20,2,40,Pasadena,77503.0,US,(281) 476-4272
+Sandwich,Fastfood,60,6,360,Cleburne,76031.0,US,(817) 645-8806
+Vadapav,Fastfood,20,9,180,Cleburne,76033.0,US,(817) 645-0261
+Frankie,Fastfood,50,12,600,Tyler,75703.0,US,(903) 630-6394
+Panipuri,Fastfood,20,1,20,Tyler,75703.0,US,(903) 534-0625
+Aalopuri,Fastfood,20,7,140,El Paso,79912.0,US,(915) 833-7789
+Sandwich,Fastfood,60,7,420,Cedar Park,78613.0,US,(512) 331-0608
+Vadapav,Fastfood,20,5,100,Carrollton,75010.0,US,(972) 732-1942
+Vadapav,Fastfood,20,3,60,Marble Falls,78654.0,US,(830) 693-5753
+Frankie,Fastfood,50,1,50,Cedar Park,78613.0,US,(512) 260-1667
+Panipuri,Fastfood,20,1,20,Fort Worth,76140.0,US,(817) 551-0576
+Panipuri,Fastfood,20,10,200,Fort Worth,76133.0,US,(817) 346-0431
+Vadapav,Fastfood,20,3,60,Cedar Park,78613.0,US,(512) 331-8810
+Aalopuri,Fastfood,20,13,260,Fort Worth,76134.0,US,(817) 551-1161
+Panipuri,Fastfood,20,5,100,Desoto,75115.0,US,(972) 274-3065
+Panipuri,Fastfood,20,10,200,Duncanville,75137.0,US,(972) 283-8222
+Vadapav,Fastfood,20,13,260,Duncanville,75116.0,US,(972) 298-4289
+Aalopuri,Fastfood,20,12,240,Wichita Falls,76308.0,US,(940) 692-0015
+Frankie,Fastfood,50,6,300,Bryan,77803.0,US,(979) 822-0624
+Vadapav,Fastfood,20,10,200,Brownsville,78521.0,US,(956) 831-0761
+Aalopuri,Fastfood,20,3,60,Bryan,77802.0,US,(979) 823-0861
+Aalopuri,Fastfood,20,12,240,Brownsville,78521.0,US,(956) 350-8863
+Panipuri,Fastfood,20,12,240,Brownsville,78521.0,US,(956) 546-2361
+Panipuri,Fastfood,20,11,220,San Antonio,78249.0,US,(210) 690-8366
+Vadapav,Fastfood,20,2,40,Fort Worth,76132.0,US,(817) 370-9064
+Panipuri,Fastfood,20,14,280,Temple,76504.0,US,(254) 771-0001
+Sandwich,Fastfood,60,15,900,Goliad,77963.0,US,(361) 645-8800
+Sandwich,Fastfood,60,12,720,Austin,78721.0,US,(512) 474-5970
+Panipuri,Fastfood,20,6,120,Temple,76502.0,US,(254) 771-1811
+Frankie,Fastfood,50,5,250,Baytown,77523.0,US,(281) 573-9363
+Panipuri,Fastfood,20,2,40,Baytown,77521.0,US,(281) 739-5231
+Vadapav,Fastfood,20,2,40,Beaumont,77701.0,US,(409) 835-4954
+Aalopuri,Fastfood,20,7,140,Waco,76710.0,US,(254) 772-5822
+Vadapav,Fastfood,20,9,180,San Antonio,78257.0,US,(210) 698-5485
+Panipuri,Fastfood,20,2,40,Brownsville,78520.0,US,(956) 542-8044
+Aalopuri,Fastfood,20,5,100,Brownsville,78526.0,US,(956) 982-4352
+Panipuri,Fastfood,20,11,220,Orange,77630.0,US,(409) 886-0044
+Frankie,Fastfood,50,9,450,Brownsville,78521.0,US,(956) 542-0963
+Vadapav,Fastfood,20,3,60,Midland,79705.0,US,(432) 684-0545
+Aalopuri,Fastfood,20,15,300,Midland,79701.0,US,(432) 570-4179
+Vadapav,Fastfood,20,5,100,San Antonio,78229.0,US,(210) 731-0782
+Aalopuri,Fastfood,20,11,220,Mesquite,75150.0,US,(972) 270-1641
+Sandwich,Fastfood,60,11,660,Austin,78753.0,US,(512) 836-8348
+Frankie,Fastfood,50,7,350,Cleburne,76033.0,US,(817) 645-0261
+Frankie,Fastfood,50,9,450,Humble,77396.0,US,(281) 441-1626
+Frankie,Fastfood,50,10,500,McKinney,75070.0,US,(972) 390-9917
+Frankie,Fastfood,50,15,750,Albuquerque,87109.0,US,(505) 344-4212
+Aalopuri,Fastfood,20,13,260,Alice,78332.0,US,(361) 396-0212
+Panipuri,Fastfood,20,9,180,Pharr,78577.0,US,(956) 702-4272
+Vadapav,Fastfood,20,14,280,Abilene,79601.0,US,(325) 676-0836
+Sandwich,Fastfood,60,12,720,Pharr,78577.0,US,(956) 781-3611
+Vadapav,Fastfood,20,15,300,Alice,78332.0,US,(361) 664-3663
+Sandwich,Fastfood,60,6,360,Amarillo,79109.0,US,(806) 355-9244
+Sandwich,Fastfood,60,2,120,Amarillo,79109.0,US,(806) 359-5472
+Panipuri,Fastfood,20,9,180,Amarillo,79103.0,US,(806) 378-9652
+Aalopuri,Fastfood,20,5,100,Amarillo,79109.0,US,(806) 358-8573
+Vadapav,Fastfood,20,12,240,Amarillo,79107.0,US,(806) 376-7726
+Aalopuri,Fastfood,20,3,60,Arlington,76014.0,US,(817) 468-2866
+Vadapav,Fastfood,20,8,160,Austin,78748.0,US,(512) 292-9357
+Vadapav,Fastfood,20,10,200,Arlington,76010.0,US,(817) 649-1717
+Sandwich,Fastfood,60,15,900,Austin,78752.0,US,(512) 453-6963
+Aalopuri,Fastfood,20,13,260,Austin,78723.0,US,(512) 452-0634
+Aalopuri,Fastfood,20,6,120,Austin,78749.0,US,(512) 892-2341
+Frankie,Fastfood,50,8,400,Austin,78748.0,US,(512) 292-4161
+Aalopuri,Fastfood,20,7,140,Austin,78705.0,US,(512) 480-5993
+Vadapav,Fastfood,20,7,140,Austin,78728.0,US,(512) 251-0528
+Frankie,Fastfood,50,4,200,Austin,78704.0,US,(512) 707-0941
+Aalopuri,Fastfood,20,15,300,Austin,78753.0,US,(512) 339-1651
+Aalopuri,Fastfood,20,4,80,Austin,78757.0,US,(512) 458-4451
+Frankie,Fastfood,50,15,750,Austin,78717.0,US,(512) 249-5202
+Sandwich,Fastfood,60,15,900,Mesquite,75149.0,US,(972) 289-9263
+Sandwich,Fastfood,60,7,420,Las Cruces,88005.0,US,(575) 525-0110
+Panipuri,Fastfood,20,1,20,Las Cruces,88001.0,US,(575) 525-2100
+Sandwich,Fastfood,60,1,60,Orange Park,32073.0,US,(904) 215-0999
+Aalopuri,Fastfood,20,6,120,Destin,32541.0,US,(850) 650-7708
+Frankie,Fastfood,50,15,750,Cantonment,32533.0,US,(850) 968-2470
+Sandwich,Fastfood,60,14,840,Milton,32571.0,US,(850) 995-2580
+Vadapav,Fastfood,20,15,300,Jacksonville,32256.0,US,(904) 281-7900
+Panipuri,Fastfood,20,6,120,Destin,32541.0,US,(850) 650-7708
+Vadapav,Fastfood,20,8,160,Defuniak Springs,32435.0,US,(850) 892-6107
+Frankie,Fastfood,50,13,650,Fort Walton Beach,32548.0,US,(850) 244-1951
+Vadapav,Fastfood,20,14,280,Fort Walton Beach,32548.0,US,(850) 244-9167
+Frankie,Fastfood,50,5,250,Fort Walton Beach,32548.0,US,(850) 864-1970
+Panipuri,Fastfood,20,14,280,Crestview,32536.0,US,(850) 689-2800
+Frankie,Fastfood,50,4,200,Niceville,32578.0,US,(850) 897-0271
+Frankie,Fastfood,50,15,750,Jacksonville,32216.0,US,(904) 642-7947
+Sandwich,Fastfood,60,11,660,Milton,32570.0,US,(850) 626-4350
+Frankie,Fastfood,50,9,450,Milton,32571.0,US,(850) 995-2580
+Aalopuri,Fastfood,20,15,300,Jacksonville,32256.0,US,(904) 281-7900
+Sandwich,Fastfood,60,9,540,Lynn Haven,32444.0,US,(850) 265-2099
+Sandwich,Fastfood,60,12,720,Destin,32550.0,US,(850) 650-6607
+Panipuri,Fastfood,20,2,40,Orange Park,32003.0,US,(904) 215-2032
+Panipuri,Fastfood,20,4,80,Pensacola,32526.0,US,(850) 944-7948
+Vadapav,Fastfood,20,15,300,Pensacola,32504.0,US,(850) 478-0563
+Frankie,Fastfood,50,6,300,Pensacola,32514.0,US,(850) 484-2776
+Vadapav,Fastfood,20,6,120,Pensacola,32501.0,US,(850) 444-9161
+Aalopuri,Fastfood,20,2,40,Pensacola,32506.0,US,(850) 453-3141
+Sandwich,Fastfood,60,8,480,Tallahassee,32303.0,US,(850) 386-6191
+Aalopuri,Fastfood,20,11,220,Tallahassee,32303.0,US,(850) 681-9202
+Sandwich,Fastfood,60,10,600,Tallahassee,32311.0,US,(850) 942-7886
+Panipuri,Fastfood,20,1,20,Tallahassee,32304.0,US,(850) 222-4484
+Frankie,Fastfood,50,6,300,Albuquerque,87109.0,US,(505) 344-4212
+Panipuri,Fastfood,20,11,220,Albuquerque,87121.0,US,(505) 873-0080
+Aalopuri,Fastfood,20,14,280,Albuquerque,87114.0,US,(505) 890-0936
+Sandwich,Fastfood,60,2,120,Albuquerque,87110.0,US,(505) 888-3868
+Aalopuri,Fastfood,20,3,60,Albuquerque,87107.0,US,(505) 242-3876
+Frankie,Fastfood,50,13,650,Pensacola,32514.0,US,(850) 484-2776
+Panipuri,Fastfood,20,3,60,Pensacola,32504.0,US,(850) 477-0673
+Sandwich,Fastfood,60,11,660,Tulsa,74114.0,US,(918) 747-7023
+Vadapav,Fastfood,20,8,160,Fort Walton Beach,32548.0,US,(850) 864-1970
+Frankie,Fastfood,50,13,650,Tulsa,74146.0,US,(918) 622-0935
+Frankie,Fastfood,50,13,650,Moore,73160.0,US,(405) 895-6258
+Vadapav,Fastfood,20,6,120,Midwest City,73130.0,US,(405) 869-9178
+Frankie,Fastfood,50,5,250,Oklahoma City,73112.0,US,(405) 917-5086
+Panipuri,Fastfood,20,11,220,Edmond,73034.0,US,(405) 348-2871
+Aalopuri,Fastfood,20,5,100,Oklahoma City,73120.0,US,(405) 752-4634
+Frankie,Fastfood,50,2,100,Lawton,73505.0,US,(580) 536-5722
+Aalopuri,Fastfood,20,1,20,Lawton,73505.0,US,(580) 357-1608
+Vadapav,Fastfood,20,13,260,Oklahoma City,73112.0,US,(405) 917-5086
+Aalopuri,Fastfood,20,1,20,Oklahoma City,73108.0,US,(405) 949-2437
+Aalopuri,Fastfood,20,1,20,Oklahoma City,73128.0,US,(405) 787-1159
+Frankie,Fastfood,50,2,100,Glenpool,74033.0,US,(918) 298-0178
+Aalopuri,Fastfood,20,13,260,Oklahoma City,73142.0,US,(405) 721-0750
+Vadapav,Fastfood,20,9,180,Oklahoma City,73109.0,US,(405) 632-4484
+Panipuri,Fastfood,20,15,300,Oklahoma City,73120.0,US,(405) 752-4634
+Frankie,Fastfood,50,3,150,Tulsa,74132.0,US,(918) 445-7143
+Frankie,Fastfood,50,1,50,Edmond,73034.0,US,(405) 359-1147
+Vadapav,Fastfood,20,3,60,Oklahoma City,73109.0,US,(405) 632-4484
+Frankie,Fastfood,50,13,650,Norman,73069.0,US,(405) 329-0678
+Vadapav,Fastfood,20,10,200,Tulsa,74146.0,US,(918) 622-0935
+Sandwich,Fastfood,60,7,420,Tulsa,74114.0,US,(918) 747-7023
+Sandwich,Fastfood,60,5,300,Tulsa,74133.0,US,(918) 364-4844
+Frankie,Fastfood,50,3,150,Brewton,36426.0,US,(251) 727-4225
+Panipuri,Fastfood,20,2,40,Broken Arrow,74012.0,US,(918) 355-4052
+Frankie,Fastfood,50,10,500,Edmond,73034.0,US,(405) 348-2871
+Sandwich,Fastfood,60,7,420,Edmond,73034.0,US,(405) 359-1147
+Sandwich,Fastfood,60,13,780,Tulsa,74145.0,US,(918) 492-6154
+Panipuri,Fastfood,20,5,100,Ruston,71270.0,US,(318) 255-5326

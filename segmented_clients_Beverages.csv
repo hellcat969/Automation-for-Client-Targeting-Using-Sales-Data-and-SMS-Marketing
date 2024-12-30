@@ -1,0 +1,315 @@
+item_name,item_type,item_price,quantity,transaction_amount,city,zip_code,country,phone_number_1
+Sugarcane juice,Beverages,25,6,150,Springdale,72762.0,US,(479) 750-2754
+Sugarcane juice,Beverages,25,8,200,Ridgeland,39157.0,US,(601) 956-6466
+Sugarcane juice,Beverages,25,9,225,Jackson,39202.0,US,(601) 896-0074
+Cold coffee,Beverages,40,10,400,Tucson,85712.0,US,(520) 327-2684
+Cold coffee,Beverages,40,15,600,Tucson,85713.0,US,(520) 294-2116
+Sugarcane juice,Beverages,25,12,300,Tucson,85704.0,US,(520) 407-9236
+Sugarcane juice,Beverages,25,10,250,Scottsdale,85251.0,US,(480) 946-9010
+Sugarcane juice,Beverages,25,4,100,Phoenix,85040.0,US,(602) 454-6453
+Cold coffee,Beverages,40,11,440,Shreveport,71129.0,US,(318) 683-0985
+Cold coffee,Beverages,40,10,400,Shreveport,71105.0,US,(318) 797-7850
+Sugarcane juice,Beverages,25,9,225,Shreveport,71105.0,US,(318) 865-5254
+Cold coffee,Beverages,40,13,520,Shreveport,71107.0,US,(318) 221-8259
+Cold coffee,Beverages,40,10,400,Rogers,72758.0,US,(479) 631-0209
+Cold coffee,Beverages,40,11,440,Mobile,36608.0,US,(251) 607-0702
+Cold coffee,Beverages,40,12,480,Trussville,35173.0,US,(205) 655-4513
+Sugarcane juice,Beverages,25,6,150,Mobile,36695.0,US,(251) 639-9987
+Sugarcane juice,Beverages,25,12,300,Glendale,85308.0,US,(602) 547-0186
+Cold coffee,Beverages,40,2,80,Phoenix,85053.0,US,(602) 942-3989
+Sugarcane juice,Beverages,25,3,75,Chickasaw,36611.0,US,(251) 456-7664
+Cold coffee,Beverages,40,1,40,Scottsdale,85251.0,US,(480) 946-9010
+Cold coffee,Beverages,40,2,80,Pensacola,32526.0,US,(850) 944-7948
+Cold coffee,Beverages,40,14,560,Birmingham,35242.0,US,(205) 980-9314
+Cold coffee,Beverages,40,6,240,Fultondale,35068.0,US,(205) 849-2933
+Cold coffee,Beverages,40,10,400,Chandler,85226.0,US,(480) 940-3707
+Cold coffee,Beverages,40,6,240,Mesa,85204.0,US,(480) 835-7468
+Sugarcane juice,Beverages,25,12,300,Phoenix,85009.0,US,(602) 254-5154
+Cold coffee,Beverages,40,10,400,Fort Worth,76114.0,US,(817) 740-8307
+Cold coffee,Beverages,40,6,240,Fort Worth,76116.0,US,(817) 244-4981
+Cold coffee,Beverages,40,2,80,Waxahachie,75165.0,US,(972) 938-8707
+Sugarcane juice,Beverages,25,8,200,Longview,75601.0,US,(903) 753-7231
+Cold coffee,Beverages,40,13,520,Weslaco,78596.0,US,(956) 968-0521
+Sugarcane juice,Beverages,25,3,75,Wichita Falls,76306.0,US,(940) 723-1019
+Cold coffee,Beverages,40,14,560,Weslaco,78596.0,US,(956) 968-9505
+Cold coffee,Beverages,40,8,320,Conroe,77301.0,US,(936) 539-1944
+Cold coffee,Beverages,40,13,520,Friendswood,77546.0,US,(281) 648-1119
+Cold coffee,Beverages,40,12,480,Beaumont,77707.0,US,(409) 866-2358
+Sugarcane juice,Beverages,25,13,325,Goodyear,85395.0,US,(623) 536-2279
+Cold coffee,Beverages,40,8,320,Fort Worth,76137.0,US,(817) 306-9111
+Cold coffee,Beverages,40,6,240,North Richland Hills,76180.0,US,(817) 656-9561
+Sugarcane juice,Beverages,25,13,325,Beaumont,77708.0,US,(409) 892-5657
+Sugarcane juice,Beverages,25,7,175,San Antonio,78247.0,US,(210) 946-0316
+Sugarcane juice,Beverages,25,6,150,Dallas,75287.0,US,(972) 662-0559
+Sugarcane juice,Beverages,25,12,300,Texarkana,71854.0,US,(870) 774-1063
+Cold coffee,Beverages,40,14,560,Tyler,75708.0,US,(903) 526-0490
+Cold coffee,Beverages,40,9,360,Tyler,75703.0,US,(903) 561-2055
+Sugarcane juice,Beverages,25,10,250,Tyler,75702.0,US,(903) 592-7354
+Sugarcane juice,Beverages,25,1,25,Live Oak,78233.0,US,(210) 654-9405
+Sugarcane juice,Beverages,25,12,300,Victoria,77904.0,US,(361) 578-9858
+Sugarcane juice,Beverages,25,7,175,Victoria,77901.0,US,(361) 578-9011
+Cold coffee,Beverages,40,6,240,Waco,76712.0,US,(254) 772-0642
+Sugarcane juice,Beverages,25,6,150,Quinlan,75474.0,US,(214) 663-0557
+Cold coffee,Beverages,40,2,80,Mineola,75773.0,US,(903) 638-8520
+Sugarcane juice,Beverages,25,5,125,Brownsville,78526.0,US,(956) 982-4352
+Cold coffee,Beverages,40,7,280,Vidor,77662.0,US,(409) 769-5871
+Cold coffee,Beverages,40,1,40,Lumberton,77657.0,US,(409) 755-0144
+Sugarcane juice,Beverages,25,5,125,Durant,74701.0,US,(580) 745-9003
+Cold coffee,Beverages,40,8,320,Taft,78390.0,US,(361) 528-3531
+Sugarcane juice,Beverages,25,15,375,San Antonio,78258.0,US,(210) 497-3939
+Cold coffee,Beverages,40,1,40,Seguin,78155.0,US,(830) 379-2582
+Sugarcane juice,Beverages,25,14,350,Big Spring,79720.0,US,(432) 263-7359
+Cold coffee,Beverages,40,15,600,Spring,77386.0,US,(281) 907-6775
+Cold coffee,Beverages,40,10,400,Sugar Land,77478.0,US,(281) 494-4298
+Cold coffee,Beverages,40,7,280,Spring,77379.0,US,(281) 753-5095
+Cold coffee,Beverages,40,8,320,Spring,77373.0,US,(281) 651-7960
+Cold coffee,Beverages,40,13,520,Sugar Land,77498.0,US,(281) 265-6838
+Sugarcane juice,Beverages,25,15,375,Greenville,75401.0,US,(903) 454-2171
+Cold coffee,Beverages,40,12,480,Sinton,78387.0,US,(361) 364-2463
+Sugarcane juice,Beverages,25,14,350,Pflugerville,78660.0,US,(512) 989-8712
+Sugarcane juice,Beverages,25,7,175,Hutto,78634.0,US,(512) 670-9189
+Cold coffee,Beverages,40,10,400,Strawn,76475.0,US,(940) 659-4611
+Cold coffee,Beverages,40,13,520,Portland,78374.0,US,(361) 643-2563
+Sugarcane juice,Beverages,25,1,25,Katy,77449.0,US,(281) 574-7207
+Sugarcane juice,Beverages,25,14,350,San Marcos,78666.0,US,(512) 754-7375
+Cold coffee,Beverages,40,5,200,San Antonio,78219.0,US,(210) 223-2441
+Sugarcane juice,Beverages,25,3,75,Rowlett,75088.0,US,(972) 412-3535
+Sugarcane juice,Beverages,25,2,50,Ingleside,78362.0,US,(361) 776-3281
+Cold coffee,Beverages,40,4,160,Rio Grande City,78582.0,US,(956) 487-4242
+Sugarcane juice,Beverages,25,6,150,Murphy,75094.0,US,(972) 881-5293
+Sugarcane juice,Beverages,25,3,75,Rockwall,75087.0,US,(972) 771-0335
+Sugarcane juice,Beverages,25,6,150,San Angelo,76901.0,US,(325) 944-4566
+Cold coffee,Beverages,40,13,520,San Angelo,76903.0,US,(325) 657-0756
+Sugarcane juice,Beverages,25,13,325,San Antonio,78245.0,US,(210) 521-1511
+Cold coffee,Beverages,40,12,480,Garland,75040.0,US,(972) 530-2353
+Sugarcane juice,Beverages,25,2,50,San Antonio,78244.0,US,(210) 666-8776
+Sugarcane juice,Beverages,25,12,300,San Antonio,78249.0,US,(210) 690-8366
+Cold coffee,Beverages,40,12,480,San Antonio,78211.0,US,(210) 924-2118
+Sugarcane juice,Beverages,25,10,250,San Antonio,78229.0,US,(210) 731-0782
+Sugarcane juice,Beverages,25,6,150,San Antonio,78205.0,US,(210) 228-0710
+Cold coffee,Beverages,40,13,520,San Antonio,78223.0,US,(210) 533-1467
+Sugarcane juice,Beverages,25,9,225,San Antonio,78249.0,US,(210) 696-4068
+Sugarcane juice,Beverages,25,1,25,Saginaw,76179.0,US,(817) 847-8549
+Cold coffee,Beverages,40,8,320,Harlingen,78550.0,US,(956) 428-0774
+Cold coffee,Beverages,40,1,40,Balch Springs,75180.0,US,(972) 913-8424
+Cold coffee,Beverages,40,1,40,Richmond,77469.0,US,(281) 239-7161
+Cold coffee,Beverages,40,13,520,Red Oak,75154.0,US,(972) 576-1000
+Sugarcane juice,Beverages,25,7,175,Kingwood,77339.0,US,(281) 312-4246
+Cold coffee,Beverages,40,11,440,Rockport,78382.0,US,(361) 729-3022
+Sugarcane juice,Beverages,25,15,375,McKinney,75071.0,US,(972) 984-1432
+Sugarcane juice,Beverages,25,11,275,Plano,75023.0,US,(972) 578-3835
+Cold coffee,Beverages,40,4,160,Plano,75024.0,US,(972) 769-8640
+Cold coffee,Beverages,40,11,440,Plano,75075.0,US,(972) 519-0442
+Sugarcane juice,Beverages,25,13,325,Plano,75074.0,US,(972) 423-5506
+Sugarcane juice,Beverages,25,12,300,Lytle,78052.0,US,(830) 772-3347
+Sugarcane juice,Beverages,25,1,25,Floresville,78114.0,US,(830) 393-8459
+Cold coffee,Beverages,40,4,160,McKinney,75069.0,US,(214) 544-8100
+Sugarcane juice,Beverages,25,5,125,Keller,76248.0,US,(817) 431-2948
+Cold coffee,Beverages,40,14,560,Terrell,75160.0,US,(972) 524-7141
+Cold coffee,Beverages,40,12,480,Roma,78584.0,US,(956) 849-4895
+Cold coffee,Beverages,40,8,320,Pharr,78577.0,US,(956) 702-4272
+Cold coffee,Beverages,40,4,160,New Braunfels,78132.0,US,(830) 608-1447
+Sugarcane juice,Beverages,25,14,350,North Richland Hills,76182.0,US,(817) 514-4989
+Cold coffee,Beverages,40,2,80,Sachse,75048.0,US,(972) 675-4524
+Sugarcane juice,Beverages,25,2,50,Nacogdoches,75961.0,US,(936) 564-4988
+Cold coffee,Beverages,40,2,80,Willis,77318.0,US,(936) 890-1279
+Sugarcane juice,Beverages,25,10,250,White Oak,75693.0,US,(903) 291-1995
+Cold coffee,Beverages,40,2,80,Mission,78572.0,US,(956) 581-2121
+Sugarcane juice,Beverages,25,12,300,Stafford,77477.0,US,(281) 240-1336
+Sugarcane juice,Beverages,25,3,75,Odessa,79762.0,US,(432) 362-2545
+Cold coffee,Beverages,40,14,560,New Braunfels,78130.0,US,(830) 629-1122
+Cold coffee,Beverages,40,9,360,Austin,78728.0,US,(512) 251-0528
+Sugarcane juice,Beverages,25,1,25,Orange,77630.0,US,(409) 883-8799
+Sugarcane juice,Beverages,25,14,350,Odessa,79762.0,US,(432) 367-3511
+Sugarcane juice,Beverages,25,5,125,Orange,77630.0,US,(409) 886-0044
+Sugarcane juice,Beverages,25,10,250,Pasadena,77503.0,US,(281) 476-4272
+Cold coffee,Beverages,40,15,600,Midlothian,76065.0,US,(972) 775-2480
+Sugarcane juice,Beverages,25,8,200,Canton,75103.0,US,(903) 567-2952
+Cold coffee,Beverages,40,3,120,Weslaco,78596.0,US,(956) 968-0521
+Sugarcane juice,Beverages,25,10,250,McAllen,78504.0,US,(956) 686-4242
+Cold coffee,Beverages,40,4,160,Weslaco,78596.0,US,(956) 968-9505
+Sugarcane juice,Beverages,25,2,50,McAllen,78501.0,US,(956) 686-6546
+Sugarcane juice,Beverages,25,14,350,Lakeway,78734.0,US,(512) 263-8723
+Cold coffee,Beverages,40,13,520,Burnet,78611.0,US,(512) 756-1507
+Cold coffee,Beverages,40,7,280,San Antonio,78245.0,US,(210) 645-7029
+Sugarcane juice,Beverages,25,14,350,San Antonio,78251.0,US,(210) 647-4402
+Cold coffee,Beverages,40,2,80,Mansfield,76063.0,US,(682) 518-1244
+Cold coffee,Beverages,40,7,280,McAllen,78504.0,US,(956) 668-7410
+Sugarcane juice,Beverages,25,9,225,Mansfield,76063.0,US,(817) 473-1585
+Sugarcane juice,Beverages,25,8,200,Marshall,75672.0,US,(903) 938-2064
+Cold coffee,Beverages,40,3,120,La Feria,78559.0,US,(956) 797-9009
+Cold coffee,Beverages,40,1,40,Midland,79701.0,US,(432) 570-4179
+Cold coffee,Beverages,40,5,200,Midland,79705.0,US,(432) 697-4184
+Sugarcane juice,Beverages,25,7,175,Lufkin,75901.0,US,(936) 632-2216
+Sugarcane juice,Beverages,25,12,300,Crosby,77532.0,US,(281) 328-1300
+Cold coffee,Beverages,40,9,360,Lubbock,79423.0,US,(806) 748-8220
+Sugarcane juice,Beverages,25,1,25,Lewisville,75067.0,US,(972) 221-3464
+Sugarcane juice,Beverages,25,10,250,San Antonio,78240.0,US,(210) 697-0244
+Cold coffee,Beverages,40,11,440,Austin,78726.0,US,(512) 249-9664
+Cold coffee,Beverages,40,13,520,Alvin,77511.0,US,(281) 331-7214
+Cold coffee,Beverages,40,11,440,San Antonio,78244.0,US,(210) 666-8776
+Sugarcane juice,Beverages,25,8,200,Converse,78109.0,US,(210) 667-9245
+Sugarcane juice,Beverages,25,5,125,Austin,78749.0,US,(512) 892-2341
+Sugarcane juice,Beverages,25,13,325,Laredo,78045.0,US,(956) 726-3119
+Sugarcane juice,Beverages,25,12,300,Lancaster,75146.0,US,(972) 230-9296
+Sugarcane juice,Beverages,25,15,375,League City,77573.0,US,(281) 338-2118
+Cold coffee,Beverages,40,6,240,San Antonio,78238.0,US,(210) 680-0848
+Sugarcane juice,Beverages,25,9,225,League City,77573.0,US,(281) 534-0218
+Sugarcane juice,Beverages,25,4,100,Lubbock,79414.0,US,(806) 792-2725
+Cold coffee,Beverages,40,5,200,Lubbock,79412.0,US,(806) 744-8595
+Cold coffee,Beverages,40,10,400,Lubbock,79401.0,US,(806) 747-5622
+Cold coffee,Beverages,40,8,320,Longview,75604.0,US,(903) 236-7730
+Cold coffee,Beverages,40,2,80,Longview,75605.0,US,(903) 663-2267
+Cold coffee,Beverages,40,10,400,Longview,75602.0,US,(903) 757-4927
+Cold coffee,Beverages,40,10,400,Kyle,78640.0,US,(512) 268-4259
+Sugarcane juice,Beverages,25,14,350,La Porte,77571.0,US,(281) 470-8173
+Cold coffee,Beverages,40,8,320,Kingwood,77345.0,US,(281) 361-9036
+Cold coffee,Beverages,40,12,480,Belton,76513.0,US,(254) 933-0010
+Cold coffee,Beverages,40,5,200,Houston,77095.0,US,(281) 858-0590
+Cold coffee,Beverages,40,8,320,Katy,77449.0,US,(281) 855-9404
+Sugarcane juice,Beverages,25,12,300,Katy,77449.0,US,(281) 574-7207
+Cold coffee,Beverages,40,10,400,Katy,77450.0,US,(281) 599-8952
+Sugarcane juice,Beverages,25,6,150,Kingwood,77339.0,US,(281) 312-4246
+Sugarcane juice,Beverages,25,7,175,Austin,78748.0,US,(512) 292-9357
+Cold coffee,Beverages,40,10,400,Irving,75063.0,US,(972) 501-9624
+Sugarcane juice,Beverages,25,7,175,Irving,75060.0,US,(972) 438-5322
+Sugarcane juice,Beverages,25,9,225,Socorro,79927.0,US,(915) 859-3826
+Cold coffee,Beverages,40,10,400,Denton,76205.0,US,(940) 484-9449
+Cold coffee,Beverages,40,14,560,Highland Village,75077.0,US,(972) 317-4697
+Sugarcane juice,Beverages,25,3,75,Kilgore,75662.0,US,(903) 984-1324
+Cold coffee,Beverages,40,15,600,Azle,76020.0,US,(817) 444-6112
+Sugarcane juice,Beverages,25,7,175,Ft. Worth,76177.0,US,(817) 847-7105
+Sugarcane juice,Beverages,25,15,375,Hickory Creek,75065.0,US,(940) 498-9377
+Cold coffee,Beverages,40,5,200,Houston,77055.0,US,(713) 973-6184
+Sugarcane juice,Beverages,25,1,25,Houston,77075.0,US,(713) 941-7307
+Cold coffee,Beverages,40,2,80,Houston,77074.0,US,(713) 953-9644
+Cold coffee,Beverages,40,7,280,Houston,77061.0,US,(713) 644-0404
+Cold coffee,Beverages,40,15,600,Houston,77087.0,US,(713) 644-2057
+Sugarcane juice,Beverages,25,4,100,Houston,77011.0,US,(713) 921-7749
+Sugarcane juice,Beverages,25,1,25,Houston,77057.0,US,(713) 781-4040
+Cold coffee,Beverages,40,7,280,Houston,77027.0,US,(713) 627-8577
+Sugarcane juice,Beverages,25,13,325,Houston,77009.0,US,(713) 868-1581
+Cold coffee,Beverages,40,15,600,Houston,77056.0,US,(713) 783-6933
+Cold coffee,Beverages,40,5,200,Houston,77049.0,US,(281) 454-6289
+Sugarcane juice,Beverages,25,7,175,Houston,77038.0,US,(281) 847-3493
+Sugarcane juice,Beverages,25,9,225,Houston,77044.0,US,(281) 436-1983
+Cold coffee,Beverages,40,1,40,Houston,77008.0,US,(713) 868-8988
+Cold coffee,Beverages,40,8,320,Houston,77014.0,US,(281) 440-1347
+Cold coffee,Beverages,40,15,600,Houston,77055.0,US,(713) 956-4061
+Cold coffee,Beverages,40,6,240,Houston,77090.0,US,(281) 872-3757
+Sugarcane juice,Beverages,25,2,50,Irving,75062.0,US,(972) 255-4794
+Sugarcane juice,Beverages,25,4,100,Killeen,76542.0,US,(254) 526-0225
+Cold coffee,Beverages,40,15,600,Kaufman,75142.0,US,(972) 962-0002
+Cold coffee,Beverages,40,15,600,Cuero,77954.0,US,(361) 275-3457
+Sugarcane juice,Beverages,25,15,375,Victoria,77901.0,US,(361) 578-9011
+Cold coffee,Beverages,40,10,400,Grapevine,76051.0,US,(817) 481-2399
+Sugarcane juice,Beverages,25,9,225,Grapevine,76051.0,US,(972) 724-6236
+Cold coffee,Beverages,40,13,520,Brenham,77833.0,US,(979) 277-1184
+Cold coffee,Beverages,40,3,120,Garland,75043.0,US,(972) 240-8330
+Cold coffee,Beverages,40,12,480,Garland,75043.0,US,(972) 203-6115
+Cold coffee,Beverages,40,11,440,Garland,75040.0,US,(972) 530-2353
+Cold coffee,Beverages,40,10,400,Lockhart,78644.0,US,(512) 398-4288
+Sugarcane juice,Beverages,25,2,50,Grand Prairie,75050.0,US,(972) 266-8740
+Cold coffee,Beverages,40,13,520,Frisco,75034.0,US,(214) 705-0831
+Sugarcane juice,Beverages,25,12,300,Euless,76155.0,US,(972) 574-1215
+Cold coffee,Beverages,40,7,280,Frisco,75036.0,US,(214) 494-6224
+Sugarcane juice,Beverages,25,1,25,Wharton,77488.0,US,(979) 532-1208
+Cold coffee,Beverages,40,3,120,El Paso,79912.0,US,(915) 584-5482
+Sugarcane juice,Beverages,25,13,325,El Paso,79915.0,US,(915) 595-2745
+Cold coffee,Beverages,40,3,120,El Paso,79925.0,US,(915) 772-4259
+Cold coffee,Beverages,40,4,160,El Paso,79924.0,US,(915) 751-2958
+Cold coffee,Beverages,40,5,200,El Paso,79938.0,US,(915) 921-6813
+Sugarcane juice,Beverages,25,13,325,Alice,78332.0,US,(361) 396-0212
+Sugarcane juice,Beverages,25,3,75,Fort Worth,76111.0,US,(817) 831-0725
+Sugarcane juice,Beverages,25,5,125,San Antonio,78223.0,US,(210) 337-9115
+Cold coffee,Beverages,40,1,40,La Vernia,78121.0,US,(830) 779-2083
+Sugarcane juice,Beverages,25,14,350,Fort Worth,76108.0,US,(817) 367-6766
+Cold coffee,Beverages,40,13,520,Fort Worth,76112.0,US,(817) 496-8955
+Cold coffee,Beverages,40,6,240,Fort Worth,76131.0,US,(817) 232-1340
+Sugarcane juice,Beverages,25,14,350,Fort Worth,76120.0,US,(817) 460-8518
+Sugarcane juice,Beverages,25,14,350,Fort Worth,76114.0,US,(817) 740-8307
+Sugarcane juice,Beverages,25,15,375,Frisco,75034.0,US,(214) 872-3855
+Cold coffee,Beverages,40,10,400,Desoto,75115.0,US,(972) 274-3065
+Sugarcane juice,Beverages,25,5,125,Corpus Christi,78416.0,US,(361) 855-0416
+Cold coffee,Beverages,40,3,120,Corpus Christi,78411.0,US,(361) 854-2321
+Sugarcane juice,Beverages,25,1,25,Corpus Christi,78415.0,US,(361) 855-0010
+Sugarcane juice,Beverages,25,14,350,Corpus Christi,78410.0,US,(361) 241-9358
+Sugarcane juice,Beverages,25,10,250,Corpus Christi,78402.0,US,(361) 881-8002
+Sugarcane juice,Beverages,25,11,275,Corpus Christi,78411.0,US,(361) 855-3278
+Sugarcane juice,Beverages,25,13,325,Corpus Christi,78401.0,US,(361) 881-9925
+Sugarcane juice,Beverages,25,1,25,Corpus Christi,78412.0,US,(361) 991-7403
+Cold coffee,Beverages,40,9,360,Dallas,75207.0,US,(214) 630-1210
+Cold coffee,Beverages,40,7,280,Dallas,75204.0,US,(214) 821-0293
+Sugarcane juice,Beverages,25,13,325,Dallas,75243.0,US,(972) 231-0475
+Sugarcane juice,Beverages,25,7,175,College Station,77845.0,US,(979) 690-5753
+Sugarcane juice,Beverages,25,7,175,College Station,77840.0,US,(979) 696-2337
+Sugarcane juice,Beverages,25,5,125,Houston,77015.0,US,(713) 450-2030
+Sugarcane juice,Beverages,25,14,350,El Paso,79912.0,US,(915) 584-5482
+Cold coffee,Beverages,40,11,440,El Paso,79932.0,US,(915) 584-3446
+Cold coffee,Beverages,40,14,560,Joaquin,75954.0,US,(936) 269-3214
+Cold coffee,Beverages,40,12,480,Carrollton,75006.0,US,(972) 418-1160
+Sugarcane juice,Beverages,25,1,25,Carrollton,75006.0,US,(972) 323-0192
+Cold coffee,Beverages,40,12,480,Tyler,75703.0,US,(903) 939-9961
+Sugarcane juice,Beverages,25,11,275,College Station,77845.0,US,(979) 690-5753
+Cold coffee,Beverages,40,6,240,Beaumont,77708.0,US,(409) 892-5657
+Cold coffee,Beverages,40,9,360,Waco,76712.0,US,(254) 772-0642
+Sugarcane juice,Beverages,25,4,100,Manor,78653.0,US,(512) 272-4160
+Sugarcane juice,Beverages,25,14,350,Baytown,77520.0,US,(281) 428-7257
+Sugarcane juice,Beverages,25,7,175,Beaumont,77707.0,US,(409) 866-2358
+Cold coffee,Beverages,40,9,360,Waco,76706.0,US,(254) 753-0380
+Sugarcane juice,Beverages,25,4,100,Temple,76502.0,US,(254) 771-9955
+Cold coffee,Beverages,40,15,600,San Antonio,78257.0,US,(210) 641-0368
+Sugarcane juice,Beverages,25,1,25,Midland,79701.0,US,(432) 694-1648
+Sugarcane juice,Beverages,25,13,325,Brownsville,78521.0,US,(956) 546-2572
+Cold coffee,Beverages,40,6,240,Orange,77630.0,US,(409) 883-8799
+Cold coffee,Beverages,40,10,400,Wichita Falls,76308.0,US,(940) 696-2201
+Sugarcane juice,Beverages,25,8,200,Wichita Falls,76306.0,US,(940) 723-1019
+Cold coffee,Beverages,40,3,120,San Antonio,78201.0,US,(210) 340-2445
+Cold coffee,Beverages,40,14,560,San Antonio,78230.0,US,(210) 384-0567
+Sugarcane juice,Beverages,25,14,350,Lake Worth,76135.0,US,(817) 237-8271
+Cold coffee,Beverages,40,9,360,Chandler,75758.0,US,(903) 849-3021
+Cold coffee,Beverages,40,5,200,Arlington,76017.0,US,(817) 472-5010
+Sugarcane juice,Beverages,25,8,200,Arlington,76014.0,US,(817) 468-4241
+Cold coffee,Beverages,40,9,360,Burleson,76028.0,US,(817) 447-1235
+Sugarcane juice,Beverages,25,6,150,Arlington,76016.0,US,(817) 561-5381
+Cold coffee,Beverages,40,5,200,Albuquerque,87112.0,US,(505) 332-8263
+Sugarcane juice,Beverages,25,1,25,Albuquerque,87114.0,US,(505) 890-0936
+Cold coffee,Beverages,40,4,160,Abilene,79605.0,US,(325) 691-1695
+Cold coffee,Beverages,40,8,320,Abilene,79605.0,US,(325) 695-6336
+Sugarcane juice,Beverages,25,14,350,Venus,76084.0,US,(972) 366-3558
+Cold coffee,Beverages,40,9,360,Amarillo,79110.0,US,(806) 468-9799
+Sugarcane juice,Beverages,25,5,125,Friendswood,77546.0,US,(281) 996-9171
+Sugarcane juice,Beverages,25,4,100,Arlington,76011.0,US,(817) 548-1976
+Sugarcane juice,Beverages,25,4,100,Arlington,76015.0,US,(817) 468-3298
+Sugarcane juice,Beverages,25,5,125,Austin,78726.0,US,(512) 249-9664
+Cold coffee,Beverages,40,11,440,Austin,78704.0,US,(512) 477-9586
+Sugarcane juice,Beverages,25,7,175,Austin,78745.0,US,(512) 443-2882
+Sugarcane juice,Beverages,25,12,300,Austin,78729.0,US,(512) 996-8766
+Sugarcane juice,Beverages,25,11,275,Austin,78721.0,US,(512) 474-5970
+Sugarcane juice,Beverages,25,9,225,Austin,78741.0,US,(512) 444-2068
+Cold coffee,Beverages,40,4,160,Las Cruces,88011.0,US,(575) 521-3222
+Cold coffee,Beverages,40,12,480,Albuquerque,87112.0,US,(505) 332-8263
+Cold coffee,Beverages,40,7,280,Fort Walton Beach,32548.0,US,(850) 244-1951
+Cold coffee,Beverages,40,15,600,Destin,32550.0,US,(850) 650-6607
+Cold coffee,Beverages,40,3,120,Panama City Beach,32407.0,US,(850) 230-2508
+Cold coffee,Beverages,40,6,240,Jacksonville,32221.0,US,(904) 693-0181
+Sugarcane juice,Beverages,25,10,250,Jacksonville,32217.0,US,(904) 730-3074
+Sugarcane juice,Beverages,25,15,375,Pensacola,32501.0,US,(850) 438-4636
+Cold coffee,Beverages,40,4,160,Gulf Breeze,32561.0,US,(850) 934-6180
+Sugarcane juice,Beverages,25,14,350,Pensacola,32504.0,US,(850) 477-0673
+Sugarcane juice,Beverages,25,14,350,Pensacola,32505.0,US,(850) 477-4298
+Cold coffee,Beverages,40,10,400,Pensacola,32501.0,US,(850) 438-4636
+Cold coffee,Beverages,40,2,80,Tallahassee,32304.0,US,(850) 575-8602
+Sugarcane juice,Beverages,25,7,175,Pensacola,32505.0,US,(850) 477-4298
+Sugarcane juice,Beverages,25,15,375,Claremore,74017.0,US,(918) 341-4461
+Cold coffee,Beverages,40,8,320,Oklahoma City,73132.0,US,(405) 728-9665
+Cold coffee,Beverages,40,14,560,Tulsa,74132.0,US,(918) 445-7143
+Cold coffee,Beverages,40,15,600,Oklahoma City,73122.0,US,(405) 947-6131
+Cold coffee,Beverages,40,11,440,Oklahoma City,73122.0,US,(405) 947-6131
+Sugarcane juice,Beverages,25,1,25,Oklahoma City,73128.0,US,(405) 787-1159
+Sugarcane juice,Beverages,25,11,275,Sapulpa,74066.0,US,(918) 227-4729
+Sugarcane juice,Beverages,25,14,350,Oklahoma City,73108.0,US,(405) 949-2437
+Cold coffee,Beverages,40,10,400,Tulsa,74133.0,US,(918) 364-4844
+Sugarcane juice,Beverages,25,13,325,Tulsa,74120.0,US,(918) 582-2419
+Cold coffee,Beverages,40,13,520,Tulsa,74145.0,US,(918) 492-6154
+Sugarcane juice,Beverages,25,1,25,Owasso,74055.0,US,(918) 272-2301
